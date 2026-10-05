@@ -64,21 +64,21 @@ Semua class memiliki constructor serta Getter dan Setter untuk setiap atributnya
 ## Dokumentasi
 
 ### C++
-> Sebelum Menambahkan Data
+1. Sebelum Menambahkan Data
 <img width="456" height="349" alt="Sebelum Tambah Data" src="https://github.com/user-attachments/assets/6ddbee0f-4cc9-4292-b76d-72c6f6598a01" />
 
-> Seteleh Menambahkan Data
+2. Seteleh Menambahkan Data
 <img width="510" height="846" alt="Setelah Tambah Data" src="https://github.com/user-attachments/assets/9d0f11f9-a105-4987-bd38-48a7b447b90c" />
 
-> Update Data Harga Makanan (membuktikan bahwa pada paket itu bukan salinan dari list hidangan, tapi pointer)
+3. Update Data Harga Makanan (membuktikan bahwa pada paket itu bukan salinan dari list hidangan, tapi pointer)
 <img width="514" height="169" alt="Update Harga Makanan" src="https://github.com/user-attachments/assets/68c4840d-4ddf-487c-947a-f0761233fd0e" />
 
 ### Python
-> Sebelum Menambahkan Data
+1. Sebelum Menambahkan Data
 <img width="508" height="355" alt="Sebelum Tambah Data" src="https://github.com/user-attachments/assets/39e6037c-8616-4a62-ad67-f6a54bd42768" />
 
-> Seteleh Menambahkan Data
+2. Seteleh Menambahkan Data
 <img width="508" height="848" alt="Setelah Tambah Data" src="https://github.com/user-attachments/assets/ac40fe0a-18c1-462f-bea2-b205fde78ff5" />
 
-> Update Data Harga Makanan (membuktikan bahwa pada paket itu bukan salinan dari list hidangan, tapi pointer)
+3. Update Data Harga Makanan (membuktikan bahwa pada paket itu bukan salinan dari list hidangan, tapi pointer)
 <img width="599" height="174" alt="Update Harga Minuman" src="https://github.com/user-attachments/assets/346117ea-e2f5-4973-be33-24ae3827f548" />
